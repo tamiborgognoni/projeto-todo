@@ -10,6 +10,9 @@ O objetivo é explorar e aplicar conceitos fundamentais de desenvolvimento de se
 abaixo imagem com o resultado que deve ser demostrado.
 4. A url deve ser acessada no seguinte endereço: http://localhost:8000/aluno/
 
+<br><br>
+<hr>
+
 <p align="center">
   <img src="https://github.com/tamiborgognoni/projeto-todo/blob/main/resultado.png">
 </p>
