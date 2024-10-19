@@ -9,3 +9,7 @@ O objetivo é explorar e aplicar conceitos fundamentais de desenvolvimento de se
 3. Ao acessar a url criada, deve constar a mensagem “_Realizado com sucesso a atividade_”,
 abaixo imagem com o resultado que deve ser demostrado.
 4. A url deve ser acessada no seguinte endereço: http://localhost:8000/aluno/
+
+<p align="center">
+  <img src="https://github.com/tamiborgognoni/projeto-todo/blob/main/resultado.png">
+</p>
